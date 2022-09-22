@@ -89,21 +89,16 @@ The data source is:
 - Current
 - Cited
 
-## Process 
+## Process <div id="process"></div>
 
-Cleaning or manipulation of data
-<div id="process"></div>
-Follow these steps:
-1. Download the previous 12 months of Cyclistic trip data.
-2. Unzip the files.
-3. Create a folder on your desktop or Drive to house the files. Use appropriate file-naming conventions.
+### Key tasks 
 
-We will deal with basic cleaning and manipulation of data like:
-- Duplicate data
-- Outdated data
-- Incomplete data
-- Incorrect/inaccurate data
-- Inconsistence data
+1. Check the data for errors. 
+2. Choose your tools. 
+3. Transform the data so you can work with it effectively. 
+4. Document the cleaning process.
+
+
 
 Here is the [Documentation](https://github.com/greyisbetter/Cyclistic-Bike-Share/blob/main/data-process.md) for each step of **Data Process**.
 
