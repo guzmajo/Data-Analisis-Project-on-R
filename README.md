@@ -3,6 +3,8 @@ Data Analysis Portfolio
 
 ## Cyclistic Bike-Share
 
+![](https://github.com/guzmajo/Giovanni_Portfolio/blob/main/OIP.jpeg)
+
 ### Table of Content
 <ul>
   <li><a href="#ask">A clear statement of the business task</a></li>
@@ -98,8 +100,11 @@ The data source is:
 3. Transform the data so you can work with it effectively. 
 4. Document the cleaning process.
 
+## Analyze <div id="analyze"></div>
+
 to check the document please click here [Analysis_process](https://github.com/guzmajo/Giovanni_Portfolio/blob/main/final-project-google-data-analytics.md)
 
+## Share <div id="share"></div>
 ### Let's visualize the number of rides by rider type
 ```
 all_trips_v2 %>% 
@@ -149,9 +154,9 @@ counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_
 
 write.csv(counts, file = 'C:/Users/LENOVO/OneDrive/Desktop/mi carrera como data analyst/Portfolio/avg_ride_length.csv')
 ```
+## Act <div id="act"></div>
 
-## Recommendations based on the analysis
-<div id="act"></div>
+### Recommendations based on the analysis
 
 
 1. Offer a promotion or an annual member for those riders that using Cyclistic-Bikes on weekends.
