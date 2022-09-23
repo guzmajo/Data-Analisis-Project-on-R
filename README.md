@@ -98,50 +98,6 @@ The data source is:
 3. Transform the data so you can work with it effectively. 
 4. Document the cleaning process.
 
-
-
-Here is the [Documentation](https://github.com/greyisbetter/Cyclistic-Bike-Share/blob/main/data-process.md) for each step of **Data Process**.
-
-## Summary of analysis
-<div id="analyze"></div>
-1. In the top 15 most traffic stations, we have a higher number of casual riders than annual members and the order deficit ratio seems to be inverted.
-![Top-stations-usertype-proportion](./charts/Top-stations-usertype-proportion.png)
-
-2. Despite the casual riders being only 43.68%, their average time and distance is higher than the annual members.
-**Casual riders and Annual Members distribution**
-![usertype-distribution](./charts/usertype-distribution.png)
-
-**Average Time and Distance of Casual and Annual Members**
-![time-and-distance](./charts/time-and-distance.png)
-
-3. Casual riders use only a few stations in the city of Chicago, while annual members use stations across the city.
-**Top 50 Casual Rider's Home Stations**
-![top-50-casual-home-stations](./charts/top-50-casual-home-stations.png)
-
-**Top 50 Annual Members's Home Stations**
-![top-50-annual-home-stations](./charts/top-50-member-home-stations.png)
-
-4. A major difference that shows that 13.55% of casual riders use docked bikes in place of classic bikes, but this is not the case with the annual members.
-**Bike Choice of Casual Riders**
-![casual-rider-bike-priority](./charts/casual-rider-bike-priority.png)
-
-**Bike Choice of Annual Members**
-![annual-rider-bike-priority](./charts/annual-rider-bike-priority.png)
-
-5. Casual riders mostly use bikes on weekends while annual members have more bike usage than casual riders in the long run.
-**The average traffic of Casual and Annual members in a Week**
-![weekly-traffic](./charts/weekly-traffic.png)
-
-**The average traffic of Casual and Annual members in a Month**
-![daily-traffic](./charts/daily-traffic.png)
-
-**The average traffic of Casual and Annual members in a Year**
-![monthly-traffic](./charts/monthly-traffic.png)
-
-## Supporting visualizations and key findings <div id="share"></div>
-The visualizations should clearly communicate your high-level insights and recommendations. 
-[Link of the Visualization Dashboard](https://github.com/greyisbetter/Cyclistic-Bike-Share/blob/main/Dashboard.pdf)
-
 ## Recommendations based on your analysis
 <div id="act"></div>
 1. As we can see, casual riders use Cyclistic-bikes at specific stations where we have a high number of bikes usage.
