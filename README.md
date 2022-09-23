@@ -150,13 +150,12 @@ counts <- aggregate(all_trips_v2$ride_length ~ all_trips_v2$member_casual + all_
 write.csv(counts, file = 'C:/Users/LENOVO/OneDrive/Desktop/mi carrera como data analyst/Portfolio/avg_ride_length.csv')
 ```
 
-## Recommendations based on your analysis
+## Recommendations based on the analysis
 <div id="act"></div>
 
-1. As we can see, casual riders use Cyclistic-bikes at specific stations where we have a high number of bikes usage.
 
-2. We can show the ease of use of docked bikes for annual members in that specific area.
+1. Offer a promotion or an annual member for those riders that using Cyclistic-Bikes on weekends.
 
-3. How can being an annual member be more rewarding for using Cyclistic-Bikes on weekends.
+2. Increase the presence on social medial to promote the annual membership.
 
-4. How can being an annual member be of more helpful when using Cyclistic-bikes for longer routes.
+3. 3. offer a free subscription for a certain period of time to those casual riders to convinced of became annual members. 
