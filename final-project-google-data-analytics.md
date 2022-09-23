@@ -714,7 +714,7 @@ all_trips_v2 %>%
     ## `summarise()` has grouped output by 'member_casual'. You can override using the
     ## `.groups` argument.
 
-![](final-project-google-data-analytics_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](unnamed-chunk-2-1.png)<!-- -->
 
 ``` r
 # Let's create a visualization for average duration
@@ -731,7 +731,7 @@ all_trips_v2 %>%
     ## `summarise()` has grouped output by 'member_casual'. You can override using the
     ## `.groups` argument.
 
-![](final-project-google-data-analytics_files/figure-gfm/unnamed-chunk-2-2.png)<!-- -->
+![](unnamed-chunk-2-2.png)<!-- -->
 
 ``` r
 # Let's create a visualization for Rider distribution
@@ -739,4 +739,4 @@ all_trips_v2 %>%
 ggplot(data=all_trips_v2) + geom_bar(mapping=aes(x=member_casual, fill=member_casual)) + labs(title="Members vs Casual distribution")
 ```
 
-![](final-project-google-data-analytics_files/figure-gfm/unnamed-chunk-2-3.png)<!-- -->
+![](unnamed-chunk-2-3.png)<!-- -->
