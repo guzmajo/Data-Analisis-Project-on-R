@@ -98,6 +98,7 @@ The data source is:
 3. Transform the data so you can work with it effectively. 
 4. Document the cleaning process.
 
+to check the document please click here [Analysis_process](https://github.com/guzmajo/Giovanni_Portfolio/blob/main/final-project-google-data-analytics.md)
 
 ### Let's visualize the number of rides by rider type
 ```
