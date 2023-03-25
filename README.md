@@ -17,7 +17,7 @@ Data Analysis Portfolio
 
 ## Introduction
 
-This is a capstone project as a part of my Google Data Analytics Professional Certificade course, Using Tools like RStudio for IDE and other such as SQL and Tableau Public to do the analysis and vizualization process. 
+This is a capstone project as a part of my Google Data Analytics Professional Certificate course, Using Tools like RStudio for IDE and other such as SQL and Tableau Public to do the analysis and visualization process. 
 
 ## For this project following data analysis steps will be followed :
 
